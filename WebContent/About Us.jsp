@@ -9,7 +9,7 @@
 <title>About Us</title> 
 <link rel="stylesheet" href="style_foot.css">
 <link rel="stylesheet" href="background1.css">
-<link rel="stylesheet" href="navigation.cs">
+<link rel="stylesheet" href="navigation.css">
 
 <style>
 h1 {
